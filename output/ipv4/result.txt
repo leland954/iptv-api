@@ -1,14 +1,12 @@
 🕘️更新时间,#genre#
-2025-10-26 08:14:38,http://51.89.166.17:3002/index.php?id=more4_antik
+2025-10-26 18:19:05,url
 
 UK News,#genre#
 
 UK Entertainment & Drama,#genre#
-More4,http://51.89.166.17:3002/index.php?id=more4_antik
 
 UK Sport,#genre#
 
 UK Factual & Lifestyle,#genre#
 
 UK Kids,#genre#
-CBBC,http://51.89.166.17:3002/index.php?id=cbbc_antik
