@@ -12,6 +12,7 @@ Sky News,https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 
 UK Entertainment & Drama,#genre#
+More4,http://51.89.166.17:3002/index.php?id=more4_antik
 More4,https://live.catvod.com/live.php?id=more4_antik&token=ab9cf7234174721e9c0bdfde12a3eafe2f572fbd77b680ea3b047a555af67647%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 
 UK Sport,#genre#
@@ -25,5 +26,6 @@ Food Network,https://hls-gateway.vpstv.net/streams/709548.m3u8
 DMAX,https://hls-gateway.vpstv.net/streams/605072.m3u8
 
 UK Kids,#genre#
+CBBC,http://51.89.166.17:3002/index.php?id=cbbc_antik
 CBBC,https://live.catvod.com/live.php?id=cbbc_antik&token=57365f15108a692dd73d018c1e7b1e60b333ae2e5e6112ccd02a2777d46a1c43%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 CBeebies,https://hls-gateway.vpstv.net/streams/709544.m3u8

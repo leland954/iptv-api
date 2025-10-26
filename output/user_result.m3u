@@ -18,6 +18,8 @@ https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/GB News.png" group-title="UK News",GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-name="More4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/More4.png" group-title="UK Entertainment & Drama",More4
+http://51.89.166.17:3002/index.php?id=more4_antik
+#EXTINF:-1 tvg-name="More4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/More4.png" group-title="UK Entertainment & Drama",More4
 https://live.catvod.com/live.php?id=more4_antik&token=ab9cf7234174721e9c0bdfde12a3eafe2f572fbd77b680ea3b047a555af67647%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK Sport",Channel 4
 https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
@@ -31,6 +33,8 @@ https://hls-gateway.vpstv.net/streams/709546.m3u8
 https://hls-gateway.vpstv.net/streams/709548.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DMAX.png" group-title="UK Factual & Lifestyle",DMAX
 https://hls-gateway.vpstv.net/streams/605072.m3u8
+#EXTINF:-1 tvg-name="CBBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBBC.png" group-title="UK Kids",CBBC
+http://51.89.166.17:3002/index.php?id=cbbc_antik
 #EXTINF:-1 tvg-name="CBBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBBC.png" group-title="UK Kids",CBBC
 https://live.catvod.com/live.php?id=cbbc_antik&token=57365f15108a692dd73d018c1e7b1e60b333ae2e5e6112ccd02a2777d46a1c43%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBeebies.png" group-title="UK Kids",CBeebies
