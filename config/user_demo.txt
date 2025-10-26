@@ -1,0 +1,65 @@
+UK News,#genre#
+BBC One,
+BBC Two,
+ITV1,
+Channel 4,
+Channel 5,
+Sky News,
+GB News,
+TalkTV,
+BBC Parliament,
+
+UK Entertainment & Drama,#genre#
+BBC Three,
+BBC Four,
+ITV2,
+ITV3,
+ITV4,
+E4,
+More4,
+Film4,
+5 USA,
+5 Action,
+5 STAR,
+5SELECT,
+Dave,
+Drama,
+Yesterday,
+W,
+Alibi,
+Quest,
+Challenge,
+Great! tv,
+Legend,
+
+UK Sport,#genre#
+BBC One, # (Shows major tournaments like World Cup/Euros, FA Cup matches, Match of the Day)
+ITV1, # (Shows major tournaments, FA Cup matches, England matches)
+Channel 4, # (Sometimes shows England matches or specific events)
+S4C, # (Welsh language channel, sometimes shows Welsh football/rugby)
+Sky Sports News,
+UFC, 
+
+UK Factual & Lifestyle,#genre#
+Quest Red,
+HGTV,
+Food Network,
+DMAX,
+Blaze,
+PBS America,
+
+UK Kids,#genre#
+CBBC,
+CBeebies,
+POP,
+Tiny POP,
+
+UK Music,#genre#
+4Music,
+The Box,
+Kiss,
+Magic,
+
+UK Shopping,#genre#
+QVC,
+TJC,
