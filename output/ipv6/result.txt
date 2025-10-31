@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 06:17:31,https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
+2025-10-31 18:27:29,https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 
 UK News,#genre#
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
@@ -8,6 +8,7 @@ Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=40ea4fdcbee10
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=6ace5c302e83849286da405772075b4b0a47d30b5d958bea55c509c8e426d2c8%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=9f44fe6372d367069ca79ec0224cc6e70baa478be434b9d9520a37418fd6ece8%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=cab5e9f65c40fa8afae1e24067ff8d00d8592104f8659304396dce838060383d%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
+Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=d11d2b2f1e7d17477b32654a2030eba72f10065dc030e9169bcf250f89d28d2a%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
 Channel 5,https://hls-gateway.vpstv.net/streams/476325.m3u8
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
@@ -23,6 +24,7 @@ More4,https://live.catvod.com/live.php?id=more4_antik&token=95eae7c8b37b3e0ed421
 More4,https://live.catvod.com/live.php?id=more4_antik&token=71ae3b381c652fe93109f05ba5bd8ab57703eede9b4b97bb0754b6bffee94da8%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 More4,https://live.catvod.com/live.php?id=more4_antik&token=a52d5f68902066c578025d2e6eb009515d94da90d877cb21d5573e5c37dd65fd%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 More4,https://live.catvod.com/live.php?id=more4_antik&token=6bc97c2b09a1aca37eb2d37f4747fd2c1a6620040cd3bc34d83243a914180b79%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
+More4,https://live.catvod.com/live.php?id=more4_antik&token=ab12fe38afd93db892b7a5d2c28aaac4eab36cd262c60e6a03a08fd6eafa5583%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
 
 UK Sport,#genre#
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
@@ -31,6 +33,7 @@ Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=40ea4fdcbee10
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=6ace5c302e83849286da405772075b4b0a47d30b5d958bea55c509c8e426d2c8%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=9f44fe6372d367069ca79ec0224cc6e70baa478be434b9d9520a37418fd6ece8%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=cab5e9f65c40fa8afae1e24067ff8d00d8592104f8659304396dce838060383d%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
+Channel 4,https://live.catvod.com/live.php?id=channel4_antik&token=d11d2b2f1e7d17477b32654a2030eba72f10065dc030e9169bcf250f89d28d2a%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
 Sky Sports News,https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-News&token=da1a9e75da1a9e75da1a9e75da1a9e75
 Sky Sports News,https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-News&token=0ea4ddb80ea4ddb80ea4ddb80ea4ddb8
 Sky Sports News,https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-News&token=b2f6d7d0b2f6d7d0b2f6d7d0b2f6d7d0
@@ -43,6 +46,7 @@ HGTV,https://live.catvod.com/live.php?id=HGTV&token=e264993fb29c487a0abc6caf4884
 HGTV,https://live.catvod.com/live.php?id=HGTV&token=737b4e4bc200e53913c833a4b816ec55d6a25a17f1ab3a0d73e99125edf50638%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 HGTV,https://live.catvod.com/live.php?id=HGTV&token=c24444a62dab3ce00111e08b15e2fc2295517b8ab54eb0614034eded5172f93b%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 HGTV,https://live.catvod.com/live.php?id=HGTV&token=58f975b334b186c68357f8978fd7eb2ce3f8999e1e077f47866be41e52adef4b%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
+HGTV,https://live.catvod.com/live.php?id=HGTV&token=441f66e69256a049074e8a17b4da06d17ea518db0b92d571b9f1b744325e3de2%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
 Food Network,https://hls-gateway.vpstv.net/streams/709548.m3u8
 DMAX,https://hls-gateway.vpstv.net/streams/605072.m3u8
 
@@ -53,4 +57,5 @@ CBBC,https://live.catvod.com/live.php?id=cbbc_antik&token=0d87bb3293b78d2f95572d
 CBBC,https://live.catvod.com/live.php?id=cbbc_antik&token=7d80b57673463b5cc2c1b89a44d0cd53aed627dee08904661f73daa1b07dc29f%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 CBBC,https://live.catvod.com/live.php?id=cbbc_antik&token=e4e212cd3b03dd14ea72e19d4117eec049f1d6dbce9a3affbabb47440fe7ca31%3A1761700935%3ANTIuMTc2LjEyNC4xODA%3D
 CBBC,https://live.catvod.com/live.php?id=cbbc_antik&token=3f8116227b9762e5101013a242116ae5181133b2fdf0c0edb47dd2c5cbf1169e%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
+CBBC,https://live.catvod.com/live.php?id=cbbc_antik&token=279b5543aa09bd1b537c5155f317bf85cfd18e2665cb337aa7021f615196d580%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
 CBeebies,https://hls-gateway.vpstv.net/streams/709544.m3u8
