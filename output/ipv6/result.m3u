@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/leland954/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC One.png" group-title="🕘️更新时间",2025-10-31 18:27:29
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC One.png" group-title="🕘️更新时间",2025-11-01 06:19:13
 https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK News",Channel 4
 https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
