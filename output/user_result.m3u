@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/leland954/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC One.png" group-title="🕘️更新时间",2025-11-01 06:19:13
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC One.png" group-title="🕘️更新时间",2025-11-01 18:18:07
 https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK News",Channel 4
 https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
@@ -15,6 +15,8 @@ https://live.catvod.com/live.php?id=channel4_antik&token=9f44fe6372d367069ca79ec
 https://live.catvod.com/live.php?id=channel4_antik&token=cab5e9f65c40fa8afae1e24067ff8d00d8592104f8659304396dce838060383d%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK News",Channel 4
 https://live.catvod.com/live.php?id=channel4_antik&token=d11d2b2f1e7d17477b32654a2030eba72f10065dc030e9169bcf250f89d28d2a%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK News",Channel 4
+https://live.catvod.com/live.php?id=channel4_antik&token=283b18cac4e6b8a3b556a227d6dfa3c50426b79f8ef11cf1346055f17420e0d0%3A1761960146%3AMTcyLjIxNS4yMTAuMjMx
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5.png" group-title="UK News",Channel 5
 https://hls-gateway.vpstv.net/streams/476325.m3u8
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 5.png" group-title="UK News",Channel 5
@@ -43,6 +45,8 @@ https://live.catvod.com/live.php?id=more4_antik&token=a52d5f68902066c578025d2e6e
 https://live.catvod.com/live.php?id=more4_antik&token=6bc97c2b09a1aca37eb2d37f4747fd2c1a6620040cd3bc34d83243a914180b79%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
 #EXTINF:-1 tvg-name="More4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/More4.png" group-title="UK Entertainment & Drama",More4
 https://live.catvod.com/live.php?id=more4_antik&token=ab12fe38afd93db892b7a5d2c28aaac4eab36cd262c60e6a03a08fd6eafa5583%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
+#EXTINF:-1 tvg-name="More4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/More4.png" group-title="UK Entertainment & Drama",More4
+https://live.catvod.com/live.php?id=more4_antik&token=524097057cfa1c466531e72674fd1e79ae2086a86d0ff3e20b13cac14c291ae8%3A1761960146%3AMTcyLjIxNS4yMTAuMjMx
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK Sport",Channel 4
 https://live.catvod.com/live.php?id=channel4_antik&token=e2fca2cfa430c9aa3625ecb207319faa0302d83368d8e30601cee95d76228271%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK Sport",Channel 4
@@ -57,6 +61,8 @@ https://live.catvod.com/live.php?id=channel4_antik&token=9f44fe6372d367069ca79ec
 https://live.catvod.com/live.php?id=channel4_antik&token=cab5e9f65c40fa8afae1e24067ff8d00d8592104f8659304396dce838060383d%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK Sport",Channel 4
 https://live.catvod.com/live.php?id=channel4_antik&token=d11d2b2f1e7d17477b32654a2030eba72f10065dc030e9169bcf250f89d28d2a%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel 4.png" group-title="UK Sport",Channel 4
+https://live.catvod.com/live.php?id=channel4_antik&token=283b18cac4e6b8a3b556a227d6dfa3c50426b79f8ef11cf1346055f17420e0d0%3A1761960146%3AMTcyLjIxNS4yMTAuMjMx
 #EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky Sports News.png" group-title="UK Sport",Sky Sports News
 https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-News&token=da1a9e75da1a9e75da1a9e75da1a9e75
 #EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky Sports News.png" group-title="UK Sport",Sky Sports News
@@ -79,6 +85,8 @@ https://live.catvod.com/live.php?id=HGTV&token=c24444a62dab3ce00111e08b15e2fc229
 https://live.catvod.com/live.php?id=HGTV&token=58f975b334b186c68357f8978fd7eb2ce3f8999e1e077f47866be41e52adef4b%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HGTV.png" group-title="UK Factual & Lifestyle",HGTV
 https://live.catvod.com/live.php?id=HGTV&token=441f66e69256a049074e8a17b4da06d17ea518db0b92d571b9f1b744325e3de2%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HGTV.png" group-title="UK Factual & Lifestyle",HGTV
+https://live.catvod.com/live.php?id=HGTV&token=c17fdcff7c75874f2c0b74200aedbc2b268af3c3ce0f90a870661c6ecf983c6c%3A1761960146%3AMTcyLjIxNS4yMTAuMjMx
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Food Network.png" group-title="UK Factual & Lifestyle",Food Network
 https://hls-gateway.vpstv.net/streams/709548.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DMAX.png" group-title="UK Factual & Lifestyle",DMAX
@@ -97,5 +105,7 @@ https://live.catvod.com/live.php?id=cbbc_antik&token=e4e212cd3b03dd14ea72e19d411
 https://live.catvod.com/live.php?id=cbbc_antik&token=3f8116227b9762e5101013a242116ae5181133b2fdf0c0edb47dd2c5cbf1169e%3A1761787285%3AMTcyLjE4NC4xNzIuMjEw
 #EXTINF:-1 tvg-name="CBBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBBC.png" group-title="UK Kids",CBBC
 https://live.catvod.com/live.php?id=cbbc_antik&token=279b5543aa09bd1b537c5155f317bf85cfd18e2665cb337aa7021f615196d580%3A1761873503%3ANTIuMTczLjE2Mi4zMw%3D%3D
+#EXTINF:-1 tvg-name="CBBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBBC.png" group-title="UK Kids",CBBC
+https://live.catvod.com/live.php?id=cbbc_antik&token=efa231bed1aac68dc7c98e04a35d652547710f691b3fa4c5631929daf5ab30c8%3A1761960146%3AMTcyLjIxNS4yMTAuMjMx
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBeebies.png" group-title="UK Kids",CBeebies
 https://hls-gateway.vpstv.net/streams/709544.m3u8
